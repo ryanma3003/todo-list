@@ -8,4 +8,4 @@
 
 # Aplikasi to-do list yang dibangun dengan Laravel 5.2 dan Vue.js
 
-![alt text](https://raw.githubusercontent.com/ryanma3003/todo-list/master/resource/Untitled.png)
+![preview](https://raw.githubusercontent.com/ryanma3003/todo-list/master/resources/Untitled.png)
